@@ -1,1 +1,3 @@
 A solution finder and simulator for the [rock/paper/scissors puzzle that appeared in Slashdot, on Apr 6, 2014](http://games-beta.slashdot.org/story/14/04/05/1616206/a-rock-paper-scissors-brainteaser).
+
+Note: it would be insane to run this without PyPy - the normal Python interpreter is 100x slower than Pypy on this code...
