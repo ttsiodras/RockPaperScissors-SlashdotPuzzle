@@ -1,1 +1,1 @@
-A solution finder and simulator for the rock/paper/scissors puzzle that appeared in Slashdot, on Apr 6, 2014.
+A solution finder and simulator for the [rock/paper/scissors puzzle that appeared in Slashdot, on Apr 6, 2014](http://games-beta.slashdot.org/story/14/04/05/1616206/a-rock-paper-scissors-brainteaser).
